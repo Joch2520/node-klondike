@@ -1,0 +1,15 @@
+{
+  "name": "node-klondike",
+  "version": "1.0.0",
+  "description": "Simple Klondike Solitaire game played on command line.",
+  "main": "klondike.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node klondike.js"
+  },
+  "keywords": ["klondike","solitaire","node","nodejs","javascript","js"],
+  "author": "Joch2520",
+  "license": "ISC"
+}
